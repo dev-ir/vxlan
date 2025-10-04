@@ -1,6 +1,6 @@
 <h1 align="center"/>⚡️ Welcome to VXlan ⚡️</h1>
 
-** VXLAN over UDP Manager **
+**VXLAN over UDP Manager**
 
 > **Disclaimer:** This tool configures a point-to-point VXLAN tunnel over UDP
 This tool configures a point-to-point VXLAN tunnel over UDP ,
