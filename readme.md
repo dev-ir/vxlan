@@ -21,7 +21,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/vxlan/refs/heads/master
 
 ## 🪚 Preview
 <p align="left">
-    <img width="100%" src="" alt="Image">
+    <img width="100%" src="https://raw.githubusercontent.com/dev-ir/vxlan/refs/heads/master/preview.png" alt="Image">
 </p>
 
 ## 🙏 Support with Crypto 
