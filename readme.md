@@ -12,7 +12,7 @@ based on IPv6 /127 addressing. It uses systemd services for persistence and
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/vxlan/refs/heads/master/main.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/vxlan/refs/heads/IPv4/main.sh)
 ```
 
 ## Languages
